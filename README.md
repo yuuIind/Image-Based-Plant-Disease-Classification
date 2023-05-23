@@ -13,4 +13,3 @@ Hakan Taştan, Eray Kuru, Yaseming Köse
 - Validation Set -> 98.32% accuracy
 - Test Set -> 98.15% accuracy
 - Seperate Test for evaluation 97.82% accuracy on 3352 images
-- 
